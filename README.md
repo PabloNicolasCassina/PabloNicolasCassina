@@ -39,7 +39,7 @@
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Godaddy](https://img.shields.io/badge/Godaddy-94399E?style=for-the-badge&logo=godaddy)
-    ![cPanel](https://img.shields.io/badge/cPanel-94399E?style=for-the-badge&logo=cPanel)
+    ![cPanel](https://img.shields.io/badge/cPanel-D33C43?style=for-the-badge&logo=cPanel)
     
 <br>
 
