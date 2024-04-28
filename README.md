@@ -29,8 +29,8 @@
   ![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=microsoftsqlserver)
   ![PHP](https://img.shields.io/badge/PHP-lightblue?style=for-the-badge&logo=php)
   ![Mongodb](https://img.shields.io/badge/Mongodb-white?style=for-the-badge&logo=mongodb)
-  ![PostgreSQL](https://img.shields.io/badge/Mongodb-blue?style=for-the-badge&logo=postgresql)
-  ![Neovim](https://img.shields.io/badge/Mongodb-pink?style=for-the-badge&logo=neovim)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-gray?style=for-the-badge&logo=postgresql)
+  ![Neovim](https://img.shields.io/badge/Neovim-pink?style=for-the-badge&logo=neovim)
   
 
 <br>
