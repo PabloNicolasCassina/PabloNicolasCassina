@@ -26,7 +26,7 @@
   
   ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=microsoftsqlserver)
+  ![SQL](https://img.shields.io/badge/SQL-FFDC28?style=for-the-badge&logo=microsoftsqlserver)
   ![PHP](https://img.shields.io/badge/PHP-lightblue?style=for-the-badge&logo=php)
   ![Mongodb](https://img.shields.io/badge/Mongodb-white?style=for-the-badge&logo=mongodb)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-gray?style=for-the-badge&logo=postgresql)
