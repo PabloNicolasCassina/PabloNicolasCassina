@@ -29,17 +29,18 @@
   ![SQL](https://img.shields.io/badge/SQL-319795?style=for-the-badge&logo=microsoftsqlserver)
   ![PHP](https://img.shields.io/badge/PHP-lightblue?style=for-the-badge&logo=php)
   ![Mongodb](https://img.shields.io/badge/Mongodb-white?style=for-the-badge&logo=mongodb)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-gray?style=for-the-badge&logo=postgresql)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-231F20?style=for-the-badge&logo=postgresql)
   ![Neovim](https://img.shields.io/badge/Neovim-pink?style=for-the-badge&logo=neovim)
   
 
 <br>
 
-- **Hosting**:
+- **Hosting and Cloud**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Godaddy](https://img.shields.io/badge/Godaddy-94399E?style=for-the-badge&logo=godaddy)
     ![cPanel](https://img.shields.io/badge/cPanel-D33C43?style=for-the-badge&logo=cPanel)
+    ![Azure](https://img.shields.io/badge/Azure-07273D?style=for-the-badge&logo=microsoftazure)
     
 <br>
 
