@@ -41,7 +41,7 @@
     ![Godaddy](https://img.shields.io/badge/Godaddy-94399E?style=for-the-badge&logo=godaddy)
     ![cPanel](https://img.shields.io/badge/cPanel-D33C43?style=for-the-badge&logo=cPanel)
     ![Azure](https://img.shields.io/badge/Azure-07273D?style=for-the-badge&logo=microsoftazure)
-    ![Gcloud](https://img.shields.io/badge/Gcloud-34A853?style=for-the-badge&logo=googlecloud)
+    ![Gcloud](https://img.shields.io/badge/Gcloud-D77310?style=for-the-badge&logo=googlecloud)
     
 <br>
 
